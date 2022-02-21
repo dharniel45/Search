@@ -36,7 +36,7 @@ const Search = () => {
             return(
                 <div className="col-11 col-md-6 col-lg-3 mx-0 mb-4">
       <div className="card p-2 overflow-hidden h-100 shadow">
-        <img src={item.img} className="card-img-left" />
+        <img src={item.img} className="card-img-left" alt="#"/>
          
          
          <div className="card-body col-xs-6">
