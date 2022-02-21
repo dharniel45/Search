@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  font-family: 'Work Sans', sans-serif;
+ 
+}
+@font-face {
+  font-family: "Glaser Stencil D";
+   src: local("Glaser Stencil D"),
+         url("./img/Glaser Stencil D Regular.ttf") format('ttf')
+}
+
+.
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  margin-top: 20px; 
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: #94969E;
+ 
+ 
+  
+
+}
+.pull-left {
+  margin-top: 40px;
+  justify-content: center;
+  text-align: center;
+  color: #94969E;
+  font-family: 'Work Sans', sans-serif;
+}
+.one {
+  color: #3177D4;
+  margin-left: 30px;
+  flex-direction: column;
+  font-family: "Glaser Stencil D";
+  font-weight: 800;
+}
+

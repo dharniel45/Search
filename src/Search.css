@@ -1,0 +1,18 @@
+.two button {
+    background-color: #3177d4;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+.form-lable h4 label {
+    padding-right: 20px;
+    text-align: right;
+}
+.form-lable h4 label, input {
+    float: right;
+    right: -15px;
+}
